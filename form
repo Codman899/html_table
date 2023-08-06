@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>
+Textform
+</title>
+<style>
+.input-unit{
+margin-bottom: 7px;
+margin-left: 3px;
+}
+</style>
+</head>
+
+<body>
+<form action="https://www.google.com">
+
+<div class="input-unit">
+<label for="Fname">
+First name:
+</label>
+<br>
+<input type="text" id="Fname" name="Fname" min=3 placeholder="FirstName">
+
+</div>
+
+<div class="input-unit">
+<label for="Lastname">Last name:
+</label>
+<br>
+<input type="text" id="Lastname" name="Lname" min=1 placeholder="LastName">
+</div>
+
+<div class="input-unit">
+<label for="phonenumber">
+Enter Phone No.
+</label>
+<br>
+<input type="tel" maxlength=10 id="phonenumber" name="phonenumber" placeholder="90342-26092">
+</div>
+
+<div class="input-unit">
+<label for="password">
+Password
+</label>
+
+<br>
+<input type="password"  id="password" name="password">
+</div>
+
+<input type="submit" value="Submit">
+<input type="reset">
+<br>
+<hr size=3 color="grey">
+<font size=3 color="black">
+<p>How long do you use your smartphone</p>
+</font>
+<input type="radio" id="5" name="5" value="5">
+<label for="5">
+5
+</label>
+<br>
+<input type="radio" id="7" name="5" value="7">
+<label for="7">
+7
+</label>
+<br>
+<input type="radio" id="8" name="5" value="8">
+<label for="8">
+8
+</label>
+<br>
+
+<hr size=3 color="grey">
+<font size=3 color="black">
+<p>What do you have</p>
+</font>
+<input type="checkbox" id="option1" name="option1" value="Bike">
+  <label for="option1"> I have a bike</label><br>
+
+<input type="checkbox" id="option2" name="option2" value="Bicycle">
+  <label for="option1"> I have a Bicycle</label><br>
+
+<input type="checkbox" id="option2" name="option2" value="Bicycle">
+  <label for="option1"> I have a Brother</label><br>
+
+<hr size=3 color="grey">
+<label for="DOB">
+Birthdate
+</label>
+<input type="date" id="DOB" name="DOB">
+<br>
+<br>
+
+<input type="button" onclick="alert('Your response is submitted')" value="Click here">
+
+<hr size=3 color="grey">
+
+</form>
+</body>
+</html>
