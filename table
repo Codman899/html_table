@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>
+Table
+</title>
+<body>
+<table border=3 bordercolor="grey" width=80%>
+<tr>
+<td colspan=3>
+<marquee behavior="alternate" direction="left" bgcolor="pink" >
+<font size=6 face="Cooper" >
+welcome
+</font>
+</marquee>
+</td>
+</tr>
+
+<tr>
+<td rowspan=2>
+<img src="https://img.freepik.com/free-vector/1st-winner-golden-medal-number-one-achievement_1017-27869.jpg" width=200 height=200>
+</td>
+<td rowspan=2>
+<img src="https://img.freepik.com/free-vector/1st-winner-golden-medal-number-one-achievement_1017-27869.jpg" width=200 height=200>
+</td>
+<td rowspan=2>
+<img src="https://img.freepik.com/free-vector/1st-winner-golden-medal-number-one-achievement_1017-27869.jpg" width=200 height=200>
+</td>
+
+<tr>
+<!-- This row is being merged -->
+</tr>
+
+
+<tr>
+<td colspan=3 rowspan=4>
+<ol type="1">
+<li>Welcome to the world of technologies</li>
+<li>Welcome to the world of technologies</li>
+<li>Welcome to the world of technologies</li>
+<li>Welcome to the world of technologies</li>
+</ol>
+</td>
+</tr>
+
+<tr>
+</tr>
+
+<tr>
+</tr>
+
+<tr>
+</tr>
+
+<tr>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+</tr>
+
+<tr>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+</tr>
+
+
+
+</body>
+</html>
