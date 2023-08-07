@@ -1,0 +1,35 @@
+<html>
+<head>
+<style>
+table {
+background-image:url('https://bd.gaadicdn.com/processedimages/kawasaki/kawasaki-ninja-h2/640X309/kawasaki-ninja-h261a5ba444bbd9.jpg');
+background-repeat: no-repeat;
+}
+</style>
+<title>
+HTML Tags
+</title>
+</head>
+<body>
+<h2 align="center">HTML Tags</h2>
+<h4>Anchor Tag</h4>
+<a href="https://ankitkashyap1.weebly.com">Click here</a>
+
+<hr size=3 color="green">
+
+<table border=2 bordercolor="red" height=260 width=400>
+<tr>
+<td>
+<h2  style="color:yellow">
+Text on Bg Image
+</h2>
+ </td>
+</tr>
+</table>
+<hr size=3 color="green">
+<h4>Audio Tag</h4>
+<audio controls>
+<source src="https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3"
+</audio>
+</body>
+</html>
