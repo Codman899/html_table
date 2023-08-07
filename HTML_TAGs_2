@@ -1,0 +1,21 @@
+<html>
+<body>
+<h2>Video Tag</h2>
+<video width=320 height=240 controls>
+<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" type="video/mp4">
+</video>
+<hr size=4 color="grey">
+<h2>Hexa color</h2>
+
+<h2 style="background-color:#f7f33c">
+Yellow
+</h2>
+<h2 style="background-color:#f614ff">
+Pink
+</h2>
+<h2 style="background-color:#ff4500">
+Orange
+</h2>
+
+</body>
+</html>
