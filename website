@@ -1,0 +1,215 @@
+<html>
+<head>
+<title>
+Website
+</title>
+</head>
+<body>
+<table width="100%" bgcolor="Orange">
+<tr>
+<td>
+<table align="center" >
+<tr>
+<td>
+<font face="Cooper" size=5>
+Ankit
+
+</font>
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
+</td>
+<td>
+<a href="file:///C:/Users/Ankit/Desktop/HTML/website.html"><font face="Arial Rounded MT" color="#ffffff" size=3>
+Home
+&nbsp&nbsp&nbsp&nbsp
+</font>
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+
+<td>
+<a href="file:///C:/Users/Ankit/Desktop/HTML/website.html"><font face="Arial Rounded MT" color="ffffff" size=3>
+About
+&nbsp&nbsp&nbsp&nbsp
+</font>
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+<a href="file:///C:/Users/Ankit/Desktop/HTML/website.html"><font face="Arial Rounded MT"color="ffffff" size=3>
+Mail
+</font>
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+<a href="#Services"><font face="Arial Rounded MT" color="ffffff" size=3>
+Services
+</font>
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+<a href="file:///C:/Users/Ankit/Desktop/HTML/website.html"><font face="Arial Rounded MT" color="ffffff" size=3>
+Achievements
+</font>
+</td>
+<td>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</td>
+<td>
+<a href="file:///C:/Users/Ankit/Desktop/HTML/website.html"><font face="Arial Rounded MT" color="ffffff" size=3>
+Contact
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+
+<table width="100%" border="1" bgcolor="#292929">
+<tr>
+<td>
+<table align="center">
+<tr>
+<td align="center" >
+<h3>
+<font size=6 color="#ffffff">
+Hi,I am Ankit
+</font>
+</h3>
+<h1>
+<font size=7 color="orange">
+Fresher Programmer
+</font>
+</h1>
+
+</td>
+
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<table width="100%" border="1" bgcolor="#292929" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table align="center" cellpadding="15" cellspacing="0">
+<tr>
+<td align="center" rowspan=2 colspan=3>
+
+<font size=6 color="orange" >
+About Me
+</font>
+<hr width="90" color="orange">
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td width="20">
+<img src="https://as1.ftcdn.net/v2/jpg/02/30/60/82/1000_F_230608264_fhoqBuEyiCPwT0h9RtnsuNAId3hWungP.jpg" width="60%">
+</td>
+<td width="60%">
+<font face="arial" color="#ffffff"size=4 align="justice">
+<h2>
+I am beginer programmer
+</h2>
+Yeh jo halka halka suroor hai
+Yeh teri nazar ka kusoor hai
+Ke sharaab peena sikha diya
+Yeh teri nazar ka kusoor hai
+Ke sharaab peena sikha diya
+Yeh jo halka halka suroor hai
+Yeh teri nazar ka kusoor hai
+Ke sharaab peena sikha diya
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Sharaab kaisi khumaar kaisa
+Ye sab tumhari nawaeishen hain
+Pilayi hai kiss nazar se tu ne
+Ke mujhko apni khabar nahi hai
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+</font>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<table width="100%" border="1" bgcolor="#292929" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<table align="center" cellpadding="15" cellspacing="0">
+<tr>
+<td align="center" rowspan=2 colspan=3>
+
+<font size=6 color="orange" >
+Services
+</font>
+<hr width="90" color="orange">
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td width="20">
+<img src="https://img.freepik.com/premium-photo/male-hand-touching-service-concept_220873-7591.jpg" width="60%">
+</td>
+<td width="60%">
+<font face="arial" color="#ffffff"size=4 align="justice">
+<h2>
+I am beginer programmer
+</h2>
+Yeh jo halka halka suroor hai
+Yeh teri nazar ka kusoor hai
+Ke sharaab peena sikha diya
+Yeh teri nazar ka kusoor hai
+Ke sharaab peena sikha diya
+Yeh jo halka halka suroor hai
+Yeh teri nazar ka kusoor hai
+Ke sharaab peena sikha diya
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Sharaab kaisi khumaar kaisa
+Ye sab tumhari nawaeishen hain
+Pilayi hai kiss nazar se tu ne
+Ke mujhko apni khabar nahi hai
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+Teri behki behki nigaah ne
+Mujhe ek sharaabi bana diya
+</font>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>
